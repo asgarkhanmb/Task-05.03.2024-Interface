@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\bin\Debug\net6.0\Task-Homework.exe
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\bin\Debug\net6.0\Task-Homework.deps.json
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\bin\Debug\net6.0\Task-Homework.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\bin\Debug\net6.0\Task-Homework.dll
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\bin\Debug\net6.0\Task-Homework.pdb
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\Task-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\Task-Homework.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\Task-Homework.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\Task-Homework.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\Task-Homework.dll
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\refint\Task-Homework.dll
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\Task-Homework.pdb
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\Task-Homework.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\Task-Homework\Task-Homework\obj\Debug\net6.0\ref\Task-Homework.dll
